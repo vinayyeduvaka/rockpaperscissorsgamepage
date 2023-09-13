@@ -1,0 +1,58 @@
+.container1{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    column-gap: 48px;
+}
+
+.container2{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    column-gap: 10px;
+}
+
+h1{
+    color: white;
+    
+}
+.rock-heading{
+    padding-left: 20px;
+}
+.paper-heading{
+        padding-left: 50px;
+}
+.game-card{
+    background-color: black;
+    background-size: cover;
+}
+.button1{
+   height: 180px;
+   width: 180px;
+   border-radius: 120px;
+   margin-left: 5px;
+   background-color: black;
+   border-color: white;
+   border-width:3px;
+
+}
+
+.image{
+    height: 100px;
+    width: 100px;
+    cursor: pointer;
+}
+
+.reset-button{
+    vertical-align: center;
+    cursor: pointer;
+}
+h1{
+    color: white;
+    text-align:center;
+}
+
+p{
+    color: white;
+    text-align:center;
+}
